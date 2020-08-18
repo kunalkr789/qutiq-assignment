@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/qutiq-assignment/static/css/main.df57fccd.chunk.css",
+    "main.js": "/qutiq-assignment/static/js/main.55ab7df1.chunk.js",
+    "main.js.map": "/qutiq-assignment/static/js/main.55ab7df1.chunk.js.map",
+    "runtime-main.js": "/qutiq-assignment/static/js/runtime-main.a99ba4d3.js",
+    "runtime-main.js.map": "/qutiq-assignment/static/js/runtime-main.a99ba4d3.js.map",
+    "static/css/2.11829350.chunk.css": "/qutiq-assignment/static/css/2.11829350.chunk.css",
+    "static/js/2.0e978a22.chunk.js": "/qutiq-assignment/static/js/2.0e978a22.chunk.js",
+    "static/js/2.0e978a22.chunk.js.map": "/qutiq-assignment/static/js/2.0e978a22.chunk.js.map",
+    "index.html": "/qutiq-assignment/index.html",
+    "precache-manifest.7172f1ee6af7f403f9aa7368776282a9.js": "/qutiq-assignment/precache-manifest.7172f1ee6af7f403f9aa7368776282a9.js",
+    "service-worker.js": "/qutiq-assignment/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/qutiq-assignment/static/css/2.11829350.chunk.css.map",
+    "static/css/main.df57fccd.chunk.css.map": "/qutiq-assignment/static/css/main.df57fccd.chunk.css.map",
+    "static/js/2.0e978a22.chunk.js.LICENSE.txt": "/qutiq-assignment/static/js/2.0e978a22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a99ba4d3.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.0e978a22.chunk.js",
+    "static/css/main.df57fccd.chunk.css",
+    "static/js/main.55ab7df1.chunk.js"
+  ]
+}
